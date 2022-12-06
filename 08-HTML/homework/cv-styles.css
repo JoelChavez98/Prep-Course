@@ -1,0 +1,27 @@
+h1 {
+    position: relative;
+    left: 430px;
+    top: 50px;
+    
+}
+h2 {
+    position: relative;
+    left: 50px;
+    top: 60px;
+}
+h3 {
+    position:relative ;
+    top:70px;
+    left:50px;
+}
+img {
+    width: 100px;
+    height: 120px;
+    position:relative;
+    left: 1000px;
+    bottom: 650px;
+}
+html {
+    width: 700px;
+    height: 600px;
+}
